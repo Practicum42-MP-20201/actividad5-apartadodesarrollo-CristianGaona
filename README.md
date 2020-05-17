@@ -23,3 +23,5 @@ Spring Cloud es una colección de herramientas que proporciona soluciones a algu
 * Rest Client: Feign
 
 Para entender como se emplean todas las tecnologías mencionadas se presenta el siguiente esquema arquitectónico para la construcción de microservicios con Spring Boot y Spring Cloud, Zuul Gateway proporciona un punto de entrada al ecosistema de microservicios, lo que proporciona capacidades de enrutamiento dinámico, Discovery Server permite registrar todos los microservicios y sus diferentes instancias, Load Balancer proporciona equilibrio de carga del lado del cliente en llamadas a otros microservicio, Distributed Tracing permite monitorizar el tiempo total de una traza desde que el cliente realiza una petición hasta que recibe una repuesta y Config Server configuración externa para todos los microservicios.
+
+![Microservices](https://github.com/Practicum42-MP-20201/actividad5-apartadodesarrollo-CristianGaona/blob/master/Images/ARMS.png)
